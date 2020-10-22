@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: auronpl.github.io
-Token: 03e4188005e19152ec7ec685e89b6c2a43b740952a557dfc243d98e0e9608a66
