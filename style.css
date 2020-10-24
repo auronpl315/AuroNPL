@@ -1,8 +1,33 @@
-.BFHeroes {
+* {
+  background: ;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  background: black;
+  color: white;
 
 }
 
+.Brave1 {
+  background: black;
+}
+
 .BFH1 {
-  width: 500px;
-  display: block;
+  background: ;
+  width: 700px;
+  padding: 50px;
+  margin: auto;
+
+}
+
+.BFH2 {
+  width: 700px;
+  padding: 50
+  margin: auto;
+}
+
+.vegito1 {
+  width: 100px;
 }
